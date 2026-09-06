@@ -21,7 +21,7 @@ export default function Peraturan() {
             <span className="clause-num">Pasal 2</span>
             <div>
               <h4>Denda keterlambatan</h4>
-              <p>Keterlambatan pembayaran dikenakan denda sebesar 5% dari nilai iuran mingguan, dihitung untuk setiap minggu keterlambatan yang berjalan.</p>
+              <p>Keterlambatan pembayaran dikenakan denda sebesar 20% dari nilai iuran mingguan, dihitung untuk setiap minggu keterlambatan yang berjalan.</p>
             </div>
           </div>
           <div className="clause">
@@ -83,7 +83,7 @@ export default function Peraturan() {
           </p>
           <ol>
             <li>Setiap anggota wajib membayar iuran secara tepat waktu sesuai jadwal yang telah disepakati bersama.</li>
-            <li>Keterlambatan pembayaran dikenakan denda 5% (lima persen) dari nilai iuran mingguan untuk setiap minggu keterlambatan.</li>
+            <li>Keterlambatan pembayaran dikenakan denda 20% (dua puluh persen) dari nilai iuran mingguan untuk setiap minggu keterlambatan.</li>
             <li>Anggota yang terbukti mengundurkan diri, menghilang, atau tidak dapat dihubungi setelah menerima dana arisan akan dikenakan sanksi berupa penyampaian identitas secara terbuka kepada seluruh anggota dan jaringan komunitas terkait, serta diproses secara hukum sesuai peraturan perundang-undangan yang berlaku.</li>
             <li>Segala bentuk penggelapan dana arisan merupakan pelanggaran berat dan akan ditindaklanjuti secara hukum tanpa kecuali.</li>
             <li>Surat ini berlaku sejak tanggal diterbitkan dan mengikat bagi seluruh anggota yang telah terdaftar dalam arisan ini.</li>
