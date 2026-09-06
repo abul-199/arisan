@@ -93,7 +93,7 @@ export default function Peraturan() {
             mestinya. Atas perhatian dan kerja samanya, kami ucapkan terima kasih.
           </p>
           <div className="paper-sign">
-            <div className="date">[L.Pakam], [06/09/2026]</div>
+            <div className="date">MEDAN, 06/09/2026</div>
             <div className="name-line">Ashabul Rihan.P</div>
             <div className="role">Ketua Pelaksana, Arisan Sejahtera</div>
           </div>
