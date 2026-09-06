@@ -16,7 +16,7 @@ export default function Hero() {
           <div className="hero-meta">
             <div><b>Mingguan</b><span>Siklus iuran dan pencairan</span></div>
             <div><b>4 pilihan</b><span>Nilai iuran per minggu</span></div>
-            <div><b>20%</b><span>Denda tiap minggu bila telat</span></div>
+            <div><b>10%</b><span>Denda tiap minggu bila telat</span></div>
           </div>
         </div>
       </div>
